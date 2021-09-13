@@ -1,0 +1,32 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS C:\Users\Admin\OneDrive\Desktop\OOP> cd "c:\Users\Admin\OneDrive\Desktop\OOP\" ; if ($?) { javac assignment1.java } ; if ($?) { java assignment1 }
+Enter first complex number
+9 5
+###Object No.1###
+Enter second complex number
+6 1
+###Object No.2###
+Press 1 to add two numbers
+Press 2 to subtract
+Press 3 to multiply
+Press 4 to divide
+Press 0 to exit
+Enter your choice
+1
+Sum: [15.00 + 6.00i]
+Enter your choice
+2
+Difference: [3.00 + 4.00i]
+Enter your choice
+3
+Product: [49.00 + 39.00i]
+Enter your choice
+4
+Quotient: [1.59 + 0.57i]
+Enter your choice
+0
+PS C:\Users\Admin\OneDrive\Desktop\OOP>
