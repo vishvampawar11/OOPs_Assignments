@@ -6,6 +6,8 @@ class Complex {
     private double img;
 
     public Complex() {
+        real = 0;
+        img = 0;
     }
 
     public Complex(double real, double img) {
