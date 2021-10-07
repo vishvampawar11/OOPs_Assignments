@@ -1,0 +1,59 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS C:\Users\Admin\OneDrive\Desktop\OOP> cd "c:\Users\Admin\OneDrive\Desktop\OOP\" ; if ($?) { javac inheritanceEx.java } ; if ($?) { java inheritanceEx }
+Press 1 to hire a Programmer
+Press 2 to hire a Team Lead
+Press 3 to hire a Assistant Project Manager   
+Press 4 to hire a Project Manager
+Press 5 to view all progeammers
+Press 6 to view all team leads
+Press 7 to view all assistant project managers
+Press 8 to view all projrct managers
+Press 9 to hire a cleaner
+Press 10 to view all cleaners
+Press 0 to exit
+1
+Enter employee name
+Vishvam
+Enter employee id
+a1
+Enter employee address
+Ratnagiri
+Enter employee email
+vishvampawar1101@gmail.com
+Enter employee phone no
+8806725167
+Enter basic pay
+80000
+------------------------------------
+Salary Slip of Programmer no. 1
+Name: Vishvam
+Id: a1
+Gross Salary: Rs. 165600.00
+Net Salary: Rs. 155200.00
+------------------------------------
+2
+Enter employee name
+Tanvi
+Enter employee id
+a2
+Enter employee address
+Pune  
+Enter employee email
+tanviK12@gmail.com
+Enter employee phone no
+8745091294
+Enter basic pay
+78000
+------------------------------------
+Salary Slip of Team Lead no. 1
+Name: Tanvi
+Id: a2
+Gross Salary: Rs. 161460.00
+Net Salary: Rs. 151320.00
+------------------------------------
+0
+PS C:\Users\Admin\OneDrive\Desktop\OOP> 
