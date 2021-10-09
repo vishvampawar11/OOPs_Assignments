@@ -13,7 +13,7 @@ class Complex {
     public Complex(double real, double img) {
         this.real = real;
         this.img = img;
-        System.out.println("###Object No." + i++ + "###");
+        System.out.println("Object No." + i++ + "###");
     }
 
     public void Print() {
@@ -51,7 +51,7 @@ class Complex {
     }
 }
 
-public class assignment1 {
+public class code1 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 
