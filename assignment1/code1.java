@@ -49,6 +49,10 @@ class Complex {
         quo.img = (c1.img * c2.real - c1.real * c2.img) / (Math.pow(c2.real, 2) + (Math.pow(c2.img, 2)));
         return quo;
     }
+
+    void addfun (){
+        System.out.println("Trying to learn git");
+    }
 }
 
 public class code1 {
